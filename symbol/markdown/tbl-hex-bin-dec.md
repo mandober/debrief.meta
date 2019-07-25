@@ -1,6 +1,7 @@
 # Tables and Figures
 
-## hex
+
+#### hex bin dec: init
 
 hex| bin       | dec
 ---|-----------|---:
@@ -25,7 +26,7 @@ hex| bin       | dec
 3C | 0011 1100 | 60
 
 
-## binary
+#### hex bin dec
 
 hex         | bin (x86)                                | dec
 ------------|------------------------------------------|-----
@@ -46,7 +47,7 @@ hex         | bin (x86)                                | dec
 00 00 01 00 | 0000 0000 0000 0000  0000 0001 0000 0000 | 256
 
 
-## canonical address
+#### cs: hw: mem: canonical address
 
 hex                 | exp     | dec
 --------------------|---------|-------------------------:

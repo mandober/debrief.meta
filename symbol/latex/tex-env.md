@@ -206,9 +206,6 @@ $$
 While ":" is allowed, it doesn't have enough spacing, use \colon
 
 
-## Large Operators
-
-\bigcup ( = \Union), \bigcap ( = \Intersection), \bigodot, \bigoplus ( = \Oplus), \bigotimes ( = \Otimes), \bigsqcup, \bigsqcap, \biginterleave, \biguplus, \bigwedge ( = \Wedge), \bigvee ( = \Vee), \coprod ( = \coproduct), \prod ( = \product), \sum, \int ( = \integral), \iint ( = \doubleintegral), \iiint ( = \tripleintegral), \iiiint ( = \quadrupleintegral), \oint ( = \conint = \contourintegral)
 
 
 ## Sizes and Styles
@@ -353,33 +350,3 @@ Toggle between these n expressions when the user clicks on them.
 
 
 
-## Equation Numbering
-While itex2MML, the stream filter, does not provide such facilities, various tools built around it, like the itex2MML MovableType plugin and Maruku provide enhanced features, such as equation-numbering and cross-referencing. $$...$$ produces an unnumbered equation. \[...\] produces a numbered equation.
-
-Optionally, `\[...\]` can contain a label
-`\[...\label{foo}...\]`
-You can then refer back to this equation by `(eq:foo)` or `\eqref{foo}`.
-These are automatically turned into hyperlinks.
-
-
-
-
-
-
-$$
-x = 
-\begin{cases}
-  x > 0 : & 4 \\
-  x = 0 : & 2 \\
-  x < 0 : & 5
-\end{cases}
-$$
-
-
-$$
-\begin{split}
-  1 & 2 & 3 & 4 \\
-  5 & 6 & 7 & 8 \\
-  9 & 10& 11& 12
-\end{split}
-$$
