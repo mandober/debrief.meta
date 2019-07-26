@@ -18,6 +18,6 @@
 * NUMA Non-Uniform Memory Access
 * PMU Performance Monitoring Unit
 * QPI QuickPath Interconnect
-* TLB Translation Lookaside Buffer
+* TLB Translation Lookside Buffer
 * TLP Thread Level Parallelism
 * UMA Uniform Memory Access
