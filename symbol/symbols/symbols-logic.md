@@ -54,9 +54,9 @@ $$\top$$            | top     | top                    |      | ⊤
 $$\bot$$            | bot     | bottom                 | 22A5 | ⊥
 
 
-tex                 |         | Desc                   | U+   | glyph
+tex                 | Desc    | Unicode Desc           | U+   | glyph
 --------------------|---------|------------------------|------|-------
-$$\vee$$            |         | vee                    |      | ∨
+$$\vee$$            | vee     |                        |      | ∨
 $$\wedge$$          |         | wedge                  |      | ∧
 $$\oplus$$          |         | XOR                    |      | ⊕
 $$\Rightarrow$$     |         | implication            | 21D2 | ⇒
@@ -70,10 +70,7 @@ $$\Leftrightarrow$$ |         | material equivalence   | 21D4 | ⇔
 $$\leftrightarrow$$ |         | equivalence            | 21D4 | ↔
 $$\equiv$$          |         | logical equivalence    | 21D4 | ≡
 $$\exists$$         |         | THERE EXISTS           | 2203 | ∃
-$$\exists$$         |         | THERE DOESN NOT EXISTS |      | ∄
+$$\exists$$         |         | THERE DOES NOT EXISTS  |      | ∄
 $$\exists!$$        |         | THERE EXISTS UNIQUE    | 2204 | ∃!
 $$\forall$$         |         | forall                 | 2200 | ∀
 $$\cong$$           |         | congruence             | 22A4 | ≌
-
-
-
