@@ -121,15 +121,28 @@ D \nvdash D\\
 E \Vvdash D
 $$
 
+$$
+a \ast b\\
+m \bullet n\\
+a \cdot b\\
+m \circ n \\
+p \star q \\
+a \bigstar b \\
+s \times r
+$$
+
 
 $$
 \amalg, \angle, \measuredangle, \sphericalangle, \\
 \approx, \approxeq, \thickapprox, \\
-\ast, \asymp, \backslash, \because, \between, \bot \\
-\boxminus, \boxplus, \boxtimes, \boxdot, \bowtie
-\bullet, \cap, \cup, \Cap, \Cup, \cdot, \\
-\circledast, \circledcirc, \clubsuit, \curlyvee, \curlywedge, \\
-\diamondsuit, \divideontimes, \dotplus, \heartsuit, \spadesuit, \\
+\asymp, \backslash, \because, \between, \bot \\
+\boxminus, \boxplus, \boxtimes, \boxdot, \bowtie \\
+\cap, \cup, \Cap, \Cup, \\
+\cdot \\
+\circledast, \circledcirc, \\
+\clubsuit, \heartsuit, \spadesuit, \diamondsuit, \\
+\curlyvee, \curlywedge, \\
+\divideontimes, \dotplus, \\
 \circ, \bigcirc, \\
 \ \\
 \dagger, \ddagger
@@ -153,7 +166,7 @@ $$
 \ \\
 \lnsim, \ltimes, \lvertneqq, \lozenge, \blacklozenge, \\
 \mid ( = \shortmid), \nmid, \nshortmid, \models, \multimap, \\
-\quad \nabla, \natural, \not, \neg, \odot, \circleddash, \\
+\quad \nabla \natural aa \not a n \neg a \odot, \circleddash, \\
 \otimes, \oplus, \ominus, \oslash, \parallel, \nparallel, \\
 \shortparallel, \nshortparallel, \partial, \\
 \perp, \pitchfork, \pm, \mp, \\
@@ -347,6 +360,3 @@ Toggle between these two expressions when the user clicks on them.
 
 `\begintoggle{expression1}{expression2}...{expressionN}\endtoggle`
 Toggle between these n expressions when the user clicks on them.
-
-
-
